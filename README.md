@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vitor!
 
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando React.JS
 
 <div align="center">
   <a href="https://github.com/vitorbarbon">

@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vitor!
 
-- 🍙 correndo atrás do sonho de fazer o que amo 🤘
-- 🖌️ ilustrador 2D nas horas vagas
+- 🍙 Correndo atrás do sonho de fazer o que amo 🤘
+- 🖌️ Ilustrador 2D nas horas vagas
 - 🌱 Me divertindo em minha caminhada de aprendizado
 
 <div align="center">

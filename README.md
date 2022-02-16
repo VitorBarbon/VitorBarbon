@@ -1,6 +1,8 @@
 ## Olá, eu sou o Vitor!
 
-- 🌱 Estudando React.JS
+- 🍙 correndo atrás do sonho de fazer o que amo 🤘
+- 🖌️ ilustrador 2D nas horas vagas
+- 🌱 Me divertindo em minha caminhada de aprendizado
 
 <div align="center">
   <a href="https://github.com/vitorbarbon">

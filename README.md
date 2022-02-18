@@ -4,6 +4,8 @@
 - 🖌️ Ilustrador 2D nas horas vagas
 - 🌱 Me divertindo em minha caminhada de aprendizado
 
+![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/88788433/154775019-26361176-43d9-4a76-b658-25dc588e0edb.svg)
+
 <div align="center">
   <a href="https://github.com/vitorbarbon">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VitorBarbon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

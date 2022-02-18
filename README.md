@@ -3,7 +3,6 @@
 - 🍙 Correndo atrás do sonho de fazer o que amo 🤘
 - 🖌️ Ilustrador 2D nas horas vagas
 - 🌱 Me divertindo em minha caminhada de aprendizado
-<img align="right" alt="Vitor-Js" height="30" width="40" src="![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/88788433/154775019-26361176-43d9-4a76-b658-25dc588e0edb.svg)" />
 
 
 <div align="center">

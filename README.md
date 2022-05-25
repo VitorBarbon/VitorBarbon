@@ -1,13 +1,4 @@
 
-Previous section
-
-
-BUY ME A COFFEE:
-VitorBarbon
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Vitor Barbon
 =============================
 
@@ -39,6 +30,7 @@ Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/vitorbarbon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/VitorBarbon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vitor-barbon-b37614182" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>

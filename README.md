@@ -7,9 +7,7 @@ Web Developer
 
 * 🌍  I'm based in Ribeirão Preto
 * ✉️  You can contact me at [dev.vitorbarbon@gmail.com](mailto:dev.vitorbarbon@gmail.com)
-* 🚀  I'm currently working on [Random Palettes](http://random-palettes.netlify.app/)
-* 🧠  I'm learning Next.js
-* ⚡  my hobby is to draw
+* 🧠  I'm learning Next.js and Python
 
 ### Skills
 
